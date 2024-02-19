@@ -1,7 +1,7 @@
 # Products 
 
-## This project demonstrates how to use the recommended Android App Architecture including MVVM, Clean Architecture, 
-## Jetpack Compose, Hilt, and Coil. The app has one screen that fetches products from the Fake Store API (https://fakestoreapi.com/products) and displays them.
+## This project demonstrates how to use the recommended Android App Architecture including MVVM, Clean Architecture, Jetpack Compose, Hilt, and Coil. 
+The app has one screen that fetches products from the Fake Store API (https://fakestoreapi.com/products) and displays them.
 
 ## Features
 
