@@ -31,9 +31,6 @@ The app has one screen that fetches products from the Fake Store API (https://fa
 
 ## Architecture block diagram
 
-<p align="center">
-  <img src="https://github.com/AlaaMaher/Products/assets/16047640/b47ebcfe-d1cb-4344-be69-85dcded05c53" width="350" alt="Architecture block diagram">
-</p>
-
+![Architecture block diagram](https://github.com/AlaaMaher/Products/assets/16047640/6c9dec8b-945d-465d-aecc-02e086454931)
 
 
