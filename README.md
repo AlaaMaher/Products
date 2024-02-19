@@ -24,7 +24,7 @@ The app has one screen that fetches products from the Fake Store API (https://fa
 - **Hilt**: For dependency injection, provide a standard way to manage dependencies in your application.
 - **Coil**: For image loading and caching.
 - **ViewModel**: To manage UI-related data in a lifecycle-conscious way.
-- **LiveData**: To notify the UI about data changes.
+- **State**: To notify the UI about data changes.
 - **Retrofit**: For making network requests to the Fake Store API.
 - **Gson**: For JSON parsing of API responses.
 - **Coroutines**: For managing background threads with simplified code and reducing callback needs.
